@@ -1,18 +1,19 @@
-# Landing Page  
+# Landing Page
 
-Landing Page => [![Landing Page](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://th3uss.github.io/LandingPage1/)  
+Landing Page => [![Landing Page](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://th3uss.github.io/LandingPage1/)
 
-### Um exemplo de Landing Page com animações e modo escuro!  
+### An example of a Landing Page with animations and dark mode!
 
-Este projeto apresenta uma landing page com design moderno, animações de fade-in, fade-out conforme o rolar da tela e funcionalidade de modo escuro.  
+This project showcases a landing page with a modern design, featuring fade-in and fade-out animations triggered by scrolling, as well as a dark mode toggle.
 
 <hr>  
 
-## Sobre o Projeto  
-Oi, eu sou o Matheus 👋<br>  
-Esse é um projeto feito com o intuito de colocar em prática conceitos aprendidos de **HTML**, **CSS** e **JavaScript**.  
-O objetivo deste projeto foi criar uma landing page atraente e funcional, com animações que melhoram a experiência do usuário e a inclusão de um modo escuro para maior personalização.  
+## About the Project
+
+Hi, I'm Matheus 👋<br>
+This project was created to put into practice concepts learned in **HTML**, **CSS**, and **JavaScript**.
+The goal of this project was to build an attractive and functional landing page, with animations that enhance the user experience and the addition of a dark mode for greater customization.
 
 <br>  
 
-> Este projeto foi desenvolvido como uma forma de treinar minhas habilidades em design, animações e interatividade web.  
+> This project was developed as a way to improve my skills in web design, animations, and interactivity.
